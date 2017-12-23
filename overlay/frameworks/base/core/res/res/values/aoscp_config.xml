@@ -16,6 +16,12 @@
 */
 -->
 <resources>
+	<!-- Internal default to navigation bar value -->
+    <bool name="config_defaultToNavigationBar">true</bool>
+	
+	<!-- Whether device has physical tri state switch -->
+    <bool name="config_hasAlertSlider">true</bool>
+
 	<!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveBatteryLed">true</bool>
 </resources>
