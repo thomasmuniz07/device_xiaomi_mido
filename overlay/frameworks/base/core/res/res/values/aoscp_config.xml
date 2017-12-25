@@ -29,5 +29,5 @@
     <bool name="config_multiColorBatteryLed">true</bool>
 	
 	<!-- Enable LED settings -->
-    <bool name="config_intrusiveNotificationLed">true</bool>
+    <bool name="config_multiColorNotificationLed">true</bool>
 </resources>
