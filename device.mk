@@ -281,6 +281,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.power@1.0-impl
 
+# for off charging mode
+PRODUCT_PACKAGES += \
+    charger_res_images
+    
 # QMI
 PRODUCT_PACKAGES += \
     libjson
