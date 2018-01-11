@@ -22,12 +22,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, device/xiaomi/mido/device.mk)
 
 # Inherit some common Candy stuff.
-$(call inherit-product, vendor/aosip/config/common.mk)
+$(call inherit-product, vendor/fh/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 TARGET_VENDOR := Xiaomi
 PRODUCT_DEVICE := mido
-PRODUCT_NAME := aosip_mido
+PRODUCT_NAME := fh_mido
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 4
 PRODUCT_MANUFACTURER := Xiaomi
