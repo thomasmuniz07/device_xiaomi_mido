@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_mido.mk
+    $(LOCAL_DIR)/fh_mido.mk
