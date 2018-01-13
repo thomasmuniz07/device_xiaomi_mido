@@ -22,7 +22,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, device/xiaomi/mido/device.mk)
 
 # Inherit some common Candy stuff.
-$(call inherit-product, vendor/aquario/config/common.mk)
+$(call inherit-product, vendor/aquarios/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 TARGET_VENDOR := Xiaomi
