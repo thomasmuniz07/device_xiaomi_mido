@@ -1,1 +1,1 @@
-add_lunch_combo liquid_mido-userdebug
+add_lunch_combo aquarios_mido-userdebug
