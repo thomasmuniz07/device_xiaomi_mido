@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/poly_mido.mk
+    $(LOCAL_DIR)/xos_mido.mk
