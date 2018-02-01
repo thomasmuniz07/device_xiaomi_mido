@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xos_mido.mk
+    $(LOCAL_DIR)/aosp_mido.mk
